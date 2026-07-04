@@ -1,2 +1,2 @@
 # PmiBiCGR-CapsNet
-A dual-channel FCGR Capsule Network for plant miRNA promoter prediction
+A dual-channel CGR Capsule Network for plant miRNA promoter prediction
